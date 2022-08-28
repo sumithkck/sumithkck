@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [my github repositories](https://github.com/sumithkck?tab=repositories)
 
-- 📝 I regularly write articles on [https://sk-tech-hub.com/](https://sk-tech-hub.com/)
+- 📝 I regularly write articles on [https://sktechhub.blogspot.com/](https://sktechhub.blogspot.com/)
 
 - 📫 How to reach me **sumithkck89@gmail.com**
 
